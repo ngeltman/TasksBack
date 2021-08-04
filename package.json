@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": "14.16.0"
+  },
   "name": "merntaskservidor",
   "version": "1.0.0",
   "description": "MERN API para MERN Task",
@@ -19,5 +22,13 @@
     "express-validator": "^6.12.1",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.13.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngeltman/TasksBack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ngeltman/TasksBack/issues"
+  },
+  "homepage": "https://github.com/ngeltman/TasksBack#readme"
 }
